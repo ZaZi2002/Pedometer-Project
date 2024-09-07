@@ -8,6 +8,8 @@ This project simulates a pedometer system using two methods:
 
 ## LTSpice Simulation
 
+![Pedometer full circuit](https://github.com/user-attachments/assets/2d1206a0-a9df-4628-8680-411362b8c149)
+
 The LTSpice simulation includes the following components:
 - **Input Signal**: Represents the accelerometer data.
 - **Pre-Amplifier**: Amplifies the input signal.
@@ -17,6 +19,7 @@ The LTSpice simulation includes the following components:
 - **Binary Counter**: Counts the number of steps based on the digital signal.
 
 ## MATLAB Code
+![Filtered signals 1](https://github.com/user-attachments/assets/a8c62ed6-3427-4cbc-9d97-d1107f06abd6)
 
 The MATLAB code processes accelerometer data to simulate a pedometer. The key steps include:
 
